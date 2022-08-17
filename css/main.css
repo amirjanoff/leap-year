@@ -1,0 +1,29 @@
+body {
+  padding-top: 30px;
+}
+form {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: steelblue;
+  font-size: 30px;
+}
+button {
+  padding: 6px 20px;
+  color: white;
+  background-color: dodgerblue;
+  border: none;
+  border-radius: 4px;
+  font-size: 20px;
+  transition: 0.3s ease;
+}
+input {
+  padding: 5px;
+  color: dodgerblue;
+  font-size: 20px;
+}
+button:hover {
+  color: dodgerblue;
+  background-color: rgba(0, 0, 0, 0.2);
+}
